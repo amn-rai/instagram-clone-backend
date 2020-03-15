@@ -1,10 +1,8 @@
 # Instagram Clone Apis (Node js and express js)
- App designs
-https://marvelapp-live.storage.googleapis.com/archives/project_screens-1d9a5199-2b1f-472a-b332-7b5cf6b25e9d.pdf
+####    [App designs](https://marvelapp-live.storage.googleapis.com/archives/project_screens-1d9a5199-2b1f-472a-b332-7b5cf6b25e9d.pdf "App designs")
 
-Features
 
- App (APIS With Node Js Express and MongoDB)
+**Features of App (APIS With Node Js Express and MongoDB)**
 - Social Login and phone number login with OTP
 - Create / edit / update posts (including multiple images, videos and HTML)
 - Popular posts, recent posts, suggested posts, trending posts
@@ -15,7 +13,7 @@ Features
 - Brand authentication and achievements
 - follow/unfollow a  user etc.
 
-ADMIN PANEL (APIS And Frontend In Angular 7.2)
+**ADMIN PANEL (APIS And Frontend In Angular 7.2)**
 - Manage post categories (Add/edit/delete/sorting)
 - Manage reports of users, events, posts, comments, comment reply, etc
 - Manage users and set authorization for multiple Admin/editor
