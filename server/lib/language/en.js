@@ -1,0 +1,31 @@
+let constant = {
+  TRUESTATUS: 1,
+  FALSESTATUS: 0,
+  MISSINGPARAMS: "please provide we_id or weibo_id",
+  MISSINGNAMEPHONE: "path `phone` is required",
+  PHONEEXIST: "Phone number is already associated with another account.",
+  PHONENOTEXIST: "Phone doesn't exist",
+  USERNOPHONE: "user is not registered with this mobile number",
+  PASSWORDUPDATESUCCESS: "Password updated successfully.",
+  INCORRECTPASS: "Current password is incorrect.",
+  NOUSER: "user not found",
+  ADDCAT: "Please add some categories to watch here.",
+  CATADDSUCCESS: "Category already exist !",
+  CATEXIST: "Category already exist !",
+  USERFOLLOW: "user followed",
+  USERUNFOLLOWL: "user unfollowed",
+  GROUPDELETESUCCESS: "Group deleted Successfully",
+  CREATEPOST: " has created a post",
+  LIKEPOST: " has liked your post",
+  COMMENTPOST: "has commented on your post",
+  REPLYCOMMENT: "has replied to your comment",
+  LIKECOMMENT: "has liked your comment",
+  LIKEREPLY: "has liked your reply",
+  CREATEEVENT: "has created an event",
+  LIKEEVENT: " has liked your event",
+  SENDMESSAGE: " sent a message",
+  GROUPSEND: "has sent a message in",
+
+};
+
+module.exports = constant;

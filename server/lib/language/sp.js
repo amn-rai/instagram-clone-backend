@@ -1,0 +1,31 @@
+let messages = {
+  TRUESTATUS: 1,
+  FALSESTATUS: 0,
+  MISSINGPARAMS: "请提供we_id或weibo_id",
+  MISSINGNAMEPHONE: "路径“电话”为必填项",
+  PHONEEXIST: "电话号码已与另一个帐户关联",
+  PHONENOTEXIST: "电话不存在",
+  USERNOPHONE: "用户未使用此手机号码注册",
+  PASSWORDUPDATESUCCESS: "密码更新成功。",
+  INCORRECTPASS: "当前密码不正确。",
+  NOUSER: "找不到用户",
+  ADDCAT: "找不到用户",
+  CATADDSUCCESS: "类别添加成功",
+  CATEXIST: "类别已经存在！",
+  USERFOLLOW: "用户关注",
+  USERUNFOLLOWL: "用户未关注",
+  GROUPDELETESUCCESS: "群删除成功",
+  CREATEPOST: "已创建了一个趣文",
+  LIKEPOST: "已赞您的趣文",
+  COMMENTPOST: "已在您的趣文上留言",
+  REPLYCOMMENT: "已复您的留言",
+  LIKECOMMENT: "赞您的留言",
+  LIKEREPLY: "已赞您的回复",
+  CREATEEVENT: "已建了一个活动",
+  LIKEEVENT: "已赞您的活动",
+  SENDMESSAGE: "发送了一条消息",
+  GROUPSEND: "在发送了一条消息",
+
+};
+
+module.exports = messages;
